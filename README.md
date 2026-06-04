@@ -43,8 +43,13 @@ When a button on the IR remote is pressed, it sends a modulated 38kHz IR signal 
 
 ## EXPECTED OUTPUT:
 ### Schematic diagram
+
+<img width="1136" height="568" alt="image" src="https://github.com/user-attachments/assets/9856502d-4964-46fd-becd-6e8006488c68" />
+
  
 ### Layout diagram
+<img width="603" height="485" alt="image" src="https://github.com/user-attachments/assets/d1afc20b-1425-419c-97eb-15812f7b8aff" />
+
  
 ## RESULT:
 Thus, the schematic and PCB layout for the Infrared remote control circuit has been successfully designed using Eagle software.
